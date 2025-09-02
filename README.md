@@ -20,16 +20,16 @@ Built an **interactive Power BI dashboard** to help policymakers and planners de
 ## 📊 Dashboard Preview  
 
 ### 📌 Overview  
-![](dashboard%20images/overview.png)  
+![](Dashboard%20images/overview.png)  
 
 ### 📌 Cause Analysis  
-![](dashboard%20images/causes.png)  
+![](Dashboard%20images/causes.png)  
 
 ### 📌 Risk Zones  
-![](dashboard%20images/riskzones.png)  
+![](Dashboard%20images/riskzones.png)  
 
 ### 📌 Summary Report  
-![](dashboard%20images/summary.png)  
+![](Dashboard%20images/summary.png)  
 
 
 ---
